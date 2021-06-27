@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Exz7\Exz7\bin\Debug\netcoreapp3.1\Exz7.exe
+C:\Users\ASUS\source\repos\Exz7\Exz7\bin\Debug\netcoreapp3.1\Exz7.deps.json
+C:\Users\ASUS\source\repos\Exz7\Exz7\bin\Debug\netcoreapp3.1\Exz7.runtimeconfig.json
+C:\Users\ASUS\source\repos\Exz7\Exz7\bin\Debug\netcoreapp3.1\Exz7.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Exz7\Exz7\bin\Debug\netcoreapp3.1\Exz7.dll
+C:\Users\ASUS\source\repos\Exz7\Exz7\bin\Debug\netcoreapp3.1\Exz7.pdb
+C:\Users\ASUS\source\repos\Exz7\Exz7\obj\Debug\netcoreapp3.1\Exz7.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Exz7\Exz7\obj\Debug\netcoreapp3.1\Exz7.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Exz7\Exz7\obj\Debug\netcoreapp3.1\Exz7.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Exz7\Exz7\obj\Debug\netcoreapp3.1\Exz7.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Exz7\Exz7\obj\Debug\netcoreapp3.1\Exz7.dll
+C:\Users\ASUS\source\repos\Exz7\Exz7\obj\Debug\netcoreapp3.1\Exz7.pdb
+C:\Users\ASUS\source\repos\Exz7\Exz7\obj\Debug\netcoreapp3.1\Exz7.genruntimeconfig.cache
